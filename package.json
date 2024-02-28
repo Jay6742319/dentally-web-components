@@ -1,0 +1,9 @@
+{
+  "name": "web-components",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "dentally-web-components-ts",
+    "ember-example"
+  ]
+}
